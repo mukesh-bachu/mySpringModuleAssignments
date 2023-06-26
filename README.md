@@ -1,4 +1,4 @@
-# ConsultAddAssignments
+# mySpringModuleAssignments
 The folders contain the source codes for the respective assignments, dependencies, and project setup. Import the entire folder into your IDE as a project and run to test the code. Please create GET and Post requests in Postman or any other tool to test them.
 
 The source code for Assignments 1, 2 & 3 is available in the MyAssignmnets folder with their respective ApplicationContext.xml and dependencies.
